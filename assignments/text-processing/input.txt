@@ -1,0 +1,3 @@
+Hello world! This is a sample input file.
+Python text processing is fun: reusing, cleaning, and counting words.
+Replace punctuation, normalize whitespace, and count word frequencies.

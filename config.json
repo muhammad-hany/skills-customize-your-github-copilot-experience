@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "text-processing",
+      "title": "Python Text Processing",
+      "description": "Text file cleanup and word frequency analysis using Python string and file I/O operations.",
+      "path": "assignments/text-processing",
+      "dueDate": "2026-04-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Input Sample",
+          "file": "input.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
